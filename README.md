@@ -18,8 +18,11 @@ The program starts execution from the main function. It then prints the first as
 **Example Run:
 ** 
    *
+   
    **
+   
    ***
+   
    ****
 
 ## Exercise 2 - input_process_output
@@ -35,12 +38,19 @@ The program asks the user for two integers and calculates sum, difference, produ
 **How it works:**
 It reads two integers using scanf. Then it performs addition,subraction,multyplication,division,remainder and stores them in variables. Each result is printed with printf.
 
-**Example Run:**Enter first integer: 10
+**Example Run:**
+Enter first integer: 10
+
 Enter second integer: 5
+
 The sum is 15
+
 The difference is 5
+
 The quotientis 2
+
 The remainder is 0
+
 The product is 50
 
 ## Exercise 3 - decision
@@ -56,7 +66,9 @@ printf,scanf, if-else, float variables, integer variables,arrithment operations
 **How it works:**
 The user enters the integer and the if statement determines whether the integer is even or odd.
 
-**Example Run:**Enter an integer  :5
+**Example Run:**
+Enter an integer  :5
+
 Integer is Odd.
 
 ## Exercise 4 - basic_loop
@@ -69,16 +81,28 @@ integer variables,while loop,printf
 **How it works:**
 The first integer is initialized to one and the while loop keeps on add the next nine integers.
 **Example Run:**
+
+
 1
+
 2
+
 3
+
 4
+
 5
+
 6
+
 7
+
 8
+
 9
+
 10
+
 Sum is 55.
 ## Exercise 5- loop_calculation
 **Category:**  Loops
@@ -92,6 +116,7 @@ for loop, integer variables,printf
 The for loop constantly adds multiples of seven above 1 and below 100.it then prints out the final sum
 
 **Example Run:** 
+
 Sum is 735.
 
 ## Exercise 6- loop_input
@@ -105,10 +130,16 @@ while loop, printf,scanf, variable initialization
 **How it works:**
 It tells the user to enter an integer five timesv and it stops.
 **Example Run:**
+
+
 Enter a number : 8
+
 Enter a number : 7
+
 Enter a number : 6
+
 Enter a number : 5
+
 Enter a number : 4
 
 
