@@ -15,14 +15,11 @@ printf function, \n newline character.
 **How it works:**
 The program starts execution from the main function. It then prints the first asterisk symbol. Each \n moves the cursor to the next line which also moves the asterisk symbol.This finally forms a triangle. Finally return 0 indicates successful execution.
 
-**Example Run:
-** 
+**Example Run:** 
+   
    *
-   
    **
-   
    ***
-   
    ****
 
 ## Exercise 2 - input_process_output
@@ -39,18 +36,13 @@ The program asks the user for two integers and calculates sum, difference, produ
 It reads two integers using scanf. Then it performs addition,subraction,multyplication,division,remainder and stores them in variables. Each result is printed with printf.
 
 **Example Run:**
+
 Enter first integer: 10
-
 Enter second integer: 5
-
 The sum is 15
-
 The difference is 5
-
 The quotientis 2
-
 The remainder is 0
-
 The product is 50
 
 ## Exercise 3 - decision
@@ -67,8 +59,8 @@ printf,scanf, if-else, float variables, integer variables,arrithment operations
 The user enters the integer and the if statement determines whether the integer is even or odd.
 
 **Example Run:**
-Enter an integer  :5
 
+Enter an integer  :5
 Integer is Odd.
 
 ## Exercise 4 - basic_loop
@@ -84,23 +76,14 @@ The first integer is initialized to one and the while loop keeps on add the next
 
 
 1
-
 2
-
 3
-
 4
-
 5
-
 6
-
 7
-
 8
-
 9
-
 10
 
 Sum is 55.
@@ -133,13 +116,9 @@ It tells the user to enter an integer five timesv and it stops.
 
 
 Enter a number : 8
-
 Enter a number : 7
-
 Enter a number : 6
-
 Enter a number : 5
-
 Enter a number : 4
 
 
@@ -157,6 +136,7 @@ while loop, if-else, printf, scanf,
 It reads an integer from the user and tells whether its even or odd.the while loop enables to reapeat untill the fifth entry which is the condition in the loop.
 
 **Example Run:**
+
 Enter a number:10
 Number is Even
 Enter a number:5
@@ -183,6 +163,7 @@ while(1) infinite loop,printf,scanf, break, float arithmetic calculation,
 Loop keeps asking for price until -1 is entered. Tax = price * (0.05+0.04). Total = price + tax.
 
 **Example Run:**
+
 Sales Tax Calculator (-1 to quit)
 
 Enter item price :40000
